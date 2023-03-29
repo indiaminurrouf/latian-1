@@ -3,6 +3,6 @@ KULIAH WEB PRO 2
 -Belajar Framework 3s
   ^ANGULAR
 -Mengenal Framework PHP
-  ^LARAVE
+  ^LARAVEL
   ^CODE IGNITER
 
